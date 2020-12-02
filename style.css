@@ -87,7 +87,7 @@ article a{
 }
 
 article a:hover{
-  size: 110em;
+  font-size: 15.4px;
   color: black; 
 }
 
