@@ -7,18 +7,29 @@ body {
   font-size: 14px;
 }
 
+p{
+  padding: 20px;
+}
+
 #wrapper {
-  width: 900px;
+  width: 500px;
   background-color: #ff3333;
 }
 
 header {
-  width: 900px;
+  width: 500px;
   background-color: #00c9fd;
 }
 
+#bigimage p{
+  color: #00c9fd;
+  background-color: #ffffff;
+  margin: 0px;
+  size: 12pt;
+}
+
 #bigimage{
-  
+  background-color: #ffffff;
 }
 
 header h1 {
@@ -29,7 +40,7 @@ header h1 {
 }
 
 nav {
-  width: 900px;
+  width: 500px;
   background-color: #cccccc;
 }
 
@@ -51,16 +62,16 @@ nav a:hover{
 }
 
 article {
-  width: 900px;
+  width: 500px;
   background-color: #cccccc;
 }
 
 #contact {
-  width: 900px;
+  width: 500px;
   background-color: #cccccc;
 }
 
 footer {
-  width: 900px;
+  width: 500px;
   background-color: #00c9fd;
 }
