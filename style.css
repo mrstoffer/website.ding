@@ -12,12 +12,12 @@ p{
 }
 
 #wrapper {
-  width: 500px;
+  width: 920px;
   background-color: #ff3333;
 }
 
 header {
-  width: 500px;
+  width: 920px;
   background-color: #00c9fd;
 }
 
@@ -32,6 +32,13 @@ header {
   background-color: #ffffff;
 }
 
+main h1{
+  padding: 10px;
+  font-family: impact;
+  size: 25pt;
+  text-align: center;
+}
+
 header h1 {
   color: rgb(255,255,255);
   padding: 20px, 5px, 5px, 5px;
@@ -40,7 +47,7 @@ header h1 {
 }
 
 nav {
-  width: 500px;
+  width: 920px;
   background-color: #cccccc;
 }
 
@@ -62,16 +69,33 @@ nav a:hover{
 }
 
 article {
-  width: 500px;
+  width: 920px;
   background-color: #cccccc;
+  margin: 20px 0px;
+}
+
+article img{
+  float: right;
+  margin: 20px;
+}
+
+article a{
+  font-weight: bold;
+  color: #00c9fd;
+  text-decoration-line: none;
+}
+
+article a:hover{
+  size: 110em;
+  color: black; 
 }
 
 #contact {
-  width: 500px;
+  width: 920px;
   background-color: #cccccc;
 }
 
 footer {
-  width: 500px;
+  width: 920px;
   background-color: #00c9fd;
 }
