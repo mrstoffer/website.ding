@@ -1,3 +1,43 @@
-h1 {
-  font-size: 300 px;
+* {
+  margin: 0;
+}
+
+body {
+  font-family: Verdana;
+  font-size: 14px;
+}
+
+#wrapper {
+  width: 900px;
+  background-color: #ff3333;
+}
+
+header {
+  width: 900px;
+  background-color: #00c9fd;
+}
+
+header h1 {
+  color: rgb(255,255,255);
+  padding: 10px;
+}
+
+nav {
+  width: 900px;
+  background-color: #cccccc;
+}
+
+article {
+  width: 900px;
+  background-color: #cccccc;
+}
+
+#contact {
+  width: 900px;
+  background-color: #cccccc;
+}
+
+footer {
+  width: 900px;
+  background-color: #00c9fd;
 }
