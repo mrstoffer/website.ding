@@ -94,6 +94,8 @@ article a:hover{
 #contact {
   width: 920px;
   background-color: #cccccc;
+  height: 75px;
+  line-height: 75px;
 }
 
 footer {
