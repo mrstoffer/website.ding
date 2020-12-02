@@ -13,7 +13,8 @@ p{
 
 #wrapper {
   width: 920px;
-  background-color: #ff3333;
+  /* background-color: #ff3333; */
+  margin: auto;
 }
 
 header {
@@ -98,4 +99,9 @@ article a:hover{
 footer {
   width: 920px;
   background-color: #00c9fd;
+}
+
+footer p{
+  color: white;
+  height: 150px;
 }
